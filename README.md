@@ -1,2 +1,7 @@
-# skype_telephone_bomber
-A Skype-based telephone bomber
+# Skype电话轰炸机
+一个基于Skype的电话轰炸机
+
+ 本项目由于方法限制导致必须调整Skype程序窗口至一个特定的大小才可使用
+ Skype需要购买套餐才可使用
+ 运行时请取消 工具->系统配置->编译->编译时是否检查死循环代码
+
